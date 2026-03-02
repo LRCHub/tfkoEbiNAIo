@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "アイボリー",
+  "base_artist": "Aqu3ra",
+  "createdAt": "2026-03-02T16:34:18.538916Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "アイボリー・ブラック",
+      "artist": "Imminence",
+      "has_synced": true,
+      "path": "select/01_アイボリー・ブラック_Imminence.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "アイボリー",
+      "artist": "Scandal",
+      "has_synced": true,
+      "path": "select/02_アイボリー_Scandal.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "アイボリー - Ivory",
+      "artist": "SCANDAL",
+      "has_synced": true,
+      "path": "select/03_アイボリー_-_Ivory_SCANDAL.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "アイボリー (弾き語り ver.)",
+      "artist": "SCANDAL",
+      "has_synced": true,
+      "path": "select/04_アイボリー_(弾き語り_ver.)_SCANDAL.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "アイボリー (弾き語りver.)",
+      "artist": "SCANDAL",
+      "has_synced": true,
+      "path": "select/05_アイボリー_(弾き語りver.)_SCANDAL.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アイボリー",
+      "artist": "Aqu3ra",
+      "has_synced": false,
+      "path": "select/pl_01_アイボリー_Aqu3ra.txt"
+    }
+  ]
+}
